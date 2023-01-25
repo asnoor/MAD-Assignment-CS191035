@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Dashboard"
+        android:id="@+id/dashboard"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item android:title="Favourite"
+        android:id="@+id/favourite"
+        android:icon="@drawable/ic_baseline_favorite_24"/>
+    <item android:title="Records"
+        android:id="@+id/record"
+        android:icon="@drawable/ic_baseline_add_circle_24"/>
+    <item android:title="Search"
+        android:id="@+id/search"
+        android:icon="@drawable/ic_baseline_search_24"/>
+    <item android:title="Setting"
+        android:id="@+id/setting"
+        android:icon="@drawable/ic_baseline_settings_24"/>
+</menu>
